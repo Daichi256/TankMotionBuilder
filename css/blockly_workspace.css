@@ -1,0 +1,8 @@
+    body {
+      font-family: sans-serif;
+    }
+    #blocklyDiv {
+      height: 480px;
+      width: 600px;
+      border: 1px solid #ccc;
+    }
